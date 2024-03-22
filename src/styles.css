@@ -113,14 +113,14 @@ p {
   text-decoration: underline;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 576px) {
   hi {
-    font-size: 30px;
+    font-size: 48px;
     line-height: 1.5;
   }
 
   h2 {
-    font-size: 25px;
+    font-size: 32px;
     text-align: center;
   }
 
